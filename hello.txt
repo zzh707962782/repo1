@@ -7,4 +7,14 @@ hello
 1212321412312
 123123412412431
 >>>>>>> dev1
+<<<<<<< HEAD
 rebaserebaserebaserebaserebaserebase
+=======
+rebaserebaserebaserebaserebaserebase
+11111111111111111
+1
+
+
+11111111111111111
+11111111
+>>>>>>> bb2420a238c127dfee0e2eed07a8027639b02fc7
